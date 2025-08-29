@@ -403,7 +403,7 @@ Transform:
   m_GameObject: {fileID: 763869004}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 48.324883, y: 0.00000047683716, z: 32.298393}
+  m_LocalPosition: {x: 48.324883, y: 0.00000047683716, z: 34.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -431,7 +431,7 @@ MonoBehaviour:
   pitchSensitivity: 120
   minPitch: -35
   maxPitch: 65
-  distance: 4
+  distance: 20
   minDistance: 2
   maxDistance: 6.5
   zoomSpeed: 4
@@ -1013,7 +1013,7 @@ Transform:
   m_GameObject: {fileID: 2126782396}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.2, z: 0}
+  m_LocalPosition: {x: 0, y: -1.17, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
